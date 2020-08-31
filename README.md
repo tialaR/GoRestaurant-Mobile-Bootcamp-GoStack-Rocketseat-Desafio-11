@@ -1,4 +1,4 @@
-🚀 <h1>GoRestaurant Mobile </h1>
+<h1>🚀 GoRestaurant Mobile </h1>
 
 <h3>Client Mobile Version:</h3>
 
@@ -13,17 +13,19 @@ Web Owner Version: https://github.com/tialaR/GoRestaurant-Web-Bootcamp-GoStack-R
 
 </br>
 
-![](gif01.gif) _&nbsp;&nbsp;_ ![](gif02.gif) 
+![](gif1.gif) _&nbsp;&nbsp;_ ![](gif2.gif) 
+![](gif3.gif) _&nbsp;&nbsp;_ ![](gif4.gif) 
+
 </br>
 
-![](tela01.png) _&nbsp;&nbsp;&nbsp;_ ![](tela02.png)
+![](tela1.png) _&nbsp;&nbsp;&nbsp;_ ![](tela2.png)
 </br>
 
-![](tela03.png) _&nbsp;&nbsp;&nbsp;_ ![](tela04.png) 
+![](tela3.png) _&nbsp;&nbsp;&nbsp;_ ![](tela4.png) 
 </br>
 
-![](tela05.png) _&nbsp;&nbsp;&nbsp;_ ![](tela06.png)
+![](tela5.png) _&nbsp;&nbsp;&nbsp;_ ![](tela6.png)
 </br>
 
-![](tela07.png) _&nbsp;&nbsp;&nbsp;_ ![](tela08.png)
+![](tela7.png) _&nbsp;&nbsp;&nbsp;_ ![](tela8.png)
 
