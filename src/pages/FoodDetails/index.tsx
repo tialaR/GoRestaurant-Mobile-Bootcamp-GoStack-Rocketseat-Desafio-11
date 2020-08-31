@@ -74,7 +74,6 @@ const FoodDetails: React.FC = () => {
   useEffect(() => {
     async function loadIsFavorite(): Promise<void> {
       const response = await api.get(`/favorites/${routeParams.id}`);
-      console.warn(response.data);
       if (response.data) {
         setIsFavorite(true);
       }
@@ -129,12 +128,12 @@ const FoodDetails: React.FC = () => {
 
   function handleIncrementFood(): void {
     // Increment food quantity
-    if (foodQuantity === 1) return;
-
     setFoodQuantity(foodQuantity + 1);
   }
 
   function handleDecrementFood(): void {
+    if (foodQuantity === 1) return;
+
     // Decrement food quantity
     setFoodQuantity(foodQuantity - 1);
   }
@@ -164,6 +163,7 @@ const FoodDetails: React.FC = () => {
   async function handleFinishOrder(): Promise<void> {
     // Finish the order and save on the API
     await api.post('/order', food);
+    navigation.goBack();
   }
 
   // Calculate the correct icon name
@@ -211,7 +211,7 @@ const FoodDetails: React.FC = () => {
         <AdditionalsContainer>
           <Title>Adicionais</Title>
           {extras.map(extra => (
-            <AdittionalItem key={extra.id}>
+            <AdittionalItem e={extra.id}>
               <AdittionalItemText>{extra.name}</AdittionalItemText>
               <AdittionalQuantity>
                 <Icon

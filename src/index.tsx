@@ -4,6 +4,8 @@ import { View, StatusBar } from 'react-native';
 
 import Routes from './routes';
 
+console.disableYellowBox = true;
+
 const App: React.FC = () => (
   <View style={{ flex: 1 }}>
     <StatusBar

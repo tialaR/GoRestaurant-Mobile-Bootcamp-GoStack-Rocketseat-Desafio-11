@@ -26,7 +26,7 @@
       "name": "Veggie",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
       "price": "21.90",
-      "category": 2,
+      "category": 1,
       "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
       "thumbnail_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-gorestaurant-mobile/veggie.png",
       "extras": [
@@ -42,7 +42,7 @@
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "category": 3,
+      "category": 1,
       "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
       "thumbnail_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-gorestaurant-mobile/camarao.png",
       "extras": [
@@ -50,6 +50,85 @@
           "id": 4,
           "name": "Bacon",
           "value": 1.5
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Margherita",
+      "description": "Queijo, Tomate e manjericão",
+      "price": "19.90",
+      "category": 2,
+      "image_url": "https://paradisepizzaria.com.br/site/img/produtos/281473_1_g.png",
+      "thumbnail_url": "https://paradisepizzaria.com.br/site/img/produtos/281473_1_g.png",
+      "extras": [
+        {
+          "id": 4,
+          "name": "Queijo Gorgonzola",
+          "value": 2.5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Brócolis",
+      "description": "Brócolis e alho",
+      "price": "24.90",
+      "category": 2,
+      "image_url": "https://paradisepizzaria.com.br/site/img/produtos/281769_1_g.png",
+      "thumbnail_url": "https://paradisepizzaria.com.br/site/img/produtos/281769_1_g.png",
+      "extras": [
+        {
+          "id": 4,
+          "name": "Brócolis",
+          "value": 2.5
+        },
+        {
+          "id": 5,
+          "name": "Queijo",
+          "value": 4.5
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Filé com fritas",
+      "description": "Filé, fritas e salada",
+      "price": "44.90",
+      "category": 3,
+      "image_url": "https://www.gudim.com.br/produtos/elementos/carne_prato1.png",
+      "thumbnail_url": "https://www.gudim.com.br/produtos/elementos/carne_prato1.png",
+      "extras": [
+        {
+          "id": 4,
+          "name": "Fritas",
+          "value": 12.5
+        },
+        {
+          "id": 5,
+          "name": "Queijo",
+          "value": 4.5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Picanha com fritas",
+      "description": "Picanha, fritas, farofa e salada",
+      "price": "44.90",
+      "category": 3,
+      "image_url": "https://buffalogrillexpress.com.br/painel/dashboard/uploads/cardapios/imagem___cardapio___picanha_2fatia-png___buffalo_grill_express__1496430950__0206172017141550.png",
+      "thumbnail_url": "https://buffalogrillexpress.com.br/painel/dashboard/uploads/cardapios/imagem___cardapio___picanha_2fatia-png___buffalo_grill_express__1496430950__0206172017141550.png",
+      "extras": [
+        {
+          "id": 4,
+          "name": "Fritas",
+          "value": 12.5
+        },
+        {
+          "id": 5,
+          "name": "Queijo",
+          "value": 4.5
         }
       ]
     }
@@ -112,6 +191,45 @@
         }
       ],
       "formattedPrice": "R$ 19,90"
+    },
+    {
+      "id": 4,
+      "name": "Margherita",
+      "description": "Queijo, Tomate e manjericão",
+      "price": "19.90",
+      "category": 2,
+      "image_url": "https://paradisepizzaria.com.br/site/img/produtos/281473_1_g.png",
+      "thumbnail_url": "https://paradisepizzaria.com.br/site/img/produtos/281473_1_g.png",
+      "extras": [
+        {
+          "id": 4,
+          "name": "Queijo Gorgonzola",
+          "value": 2.5
+        }
+      ],
+      "formattedPrice": "R$ 19,90"
+    },
+    {
+      "id": 5,
+      "name": "Brócolis",
+      "description": "Brócolis e alho",
+      "price": "24.90",
+      "category": 2,
+      "image_url": "https://paradisepizzaria.com.br/site/img/produtos/281769_1_g.png",
+      "thumbnail_url": "https://paradisepizzaria.com.br/site/img/produtos/281769_1_g.png",
+      "extras": [
+        {
+          "id": 4,
+          "name": "Brócolis",
+          "value": 2.5
+        },
+        {
+          "id": 5,
+          "name": "Queijo",
+          "value": 4.5
+        }
+      ],
+      "formattedPrice": "R$ 24,90"
     }
   ]
 }
