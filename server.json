@@ -193,23 +193,6 @@
       "formattedPrice": "R$ 19,90"
     },
     {
-      "id": 4,
-      "name": "Margherita",
-      "description": "Queijo, Tomate e manjericão",
-      "price": "19.90",
-      "category": 2,
-      "image_url": "https://paradisepizzaria.com.br/site/img/produtos/281473_1_g.png",
-      "thumbnail_url": "https://paradisepizzaria.com.br/site/img/produtos/281473_1_g.png",
-      "extras": [
-        {
-          "id": 4,
-          "name": "Queijo Gorgonzola",
-          "value": 2.5
-        }
-      ],
-      "formattedPrice": "R$ 19,90"
-    },
-    {
       "id": 5,
       "name": "Brócolis",
       "description": "Brócolis e alho",
