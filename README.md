@@ -3,13 +3,13 @@
 <h3>Client Mobile Version:</h3>
 
 <p>
-In this challenge proposed by Rocketseat's Bootcamp I developed an application called GoRestaurant.
-In his implementation I was able to practice what I have learned so far in React.js along with TypeScript, using the concept of CRUD (Create, Read, Update, Delete).
-    
-This application connects to a fake API, displays food dishes and allows the creation, removal and updating of these dishes.
+
+In this challenge I developed another application, GoRestaurant Mobile, only this time the mobile version for the client. Where I practiced what you’ve learned so far in React Native along with TypeScript, to create a small app for ordering food.
+
+This application connects to a Fake API, and displays and filters the API's food dishes and allows the creation of new orders and favorite dishes.
 </p>
 
-Mobile Client Version: https://github.com/tialaR/GoRestaurant-Web-Bootcamp-GoStack-Rocketseat-Desafio-10
+Web Owner Version: https://github.com/tialaR/GoRestaurant-Web-Bootcamp-GoStack-Rocketseat-Desafio-10
 
 </br>
 
