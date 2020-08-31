@@ -14,8 +14,9 @@ Web Owner Version: https://github.com/tialaR/GoRestaurant-Web-Bootcamp-GoStack-R
 </br>
 
 ![](gif1.gif) _&nbsp;&nbsp;_ ![](gif2.gif) 
-![](gif3.gif) _&nbsp;&nbsp;_ ![](gif4.gif) 
+</br>
 
+![](gif3.gif) _&nbsp;&nbsp;_ ![](gif4.gif) 
 </br>
 
 ![](tela1.png) _&nbsp;&nbsp;&nbsp;_ ![](tela2.png)
